@@ -1,4 +1,4 @@
-pyspider [![Build Status]][Travis CI] [![Coverage Status]][Coverage] [![Try]][Demo]
+zd pyspider [![Build Status]][Travis CI] [![Coverage Status]][Coverage] [![Try]][Demo]
 ========
 
 A Powerful Spider(Web Crawler) System in Python. **[TRY IT NOW!][Demo]**
